@@ -1,7 +1,7 @@
 # pro4.java
 import java.io.*;
 import java.util.*;
-public class large3no
+public class large
 {
     public static void main(String args[])
     {
